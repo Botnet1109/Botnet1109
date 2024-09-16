@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Botnet1109
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning CCNA
+- 🌱 
 - 💞️ I’m looking to collaborate on c++
 - 📫 How to reach me ...
 - 😄 Pronouns: Putu
